@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaiyang Liu"
   avatar           : "images/Kaiyang.jpeg"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  bio              : "Assistant Professor, Ph.D."
+  location         : "St. John's, NL, Canada"
+  employer         : "Memorial University of Newfoundland"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=AsOm8tUAAAAJ&hl=en"
   email            : "kaiyang.liu@mun.ca"
