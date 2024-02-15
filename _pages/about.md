@@ -105,13 +105,13 @@ Selected Peer-reviewed Conference Publications
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- <code class="language-plaintext highlighter-rouge">2021.01</code> *2021.01* Outstanding Ph.D. Thesis Award at Central South University
-- <code class="language-plaintext highlighter-rouge">2021.01</code> *2020.12* IEEE Technical Committee on Cloud Computing(TCCLD) Outstanding Ph.D. Thesis Award
-- <code class="language-plaintext highlighter-rouge">2021.01</code> *2018.10* Best Paper Award Candidates, IEEE LCN 2018
-- <code class="language-plaintext highlighter-rouge">2021.01</code> *2016.12 - 2018.12* CSC-UVic Fellowship
-- <code class="language-plaintext highlighter-rouge">2021.01</code> *2016.12* China National Scholarship for Graduate Students
-- <code class="language-plaintext highlighter-rouge">2021.01</code> *2012.06* Outstanding Graduates at Central South University
-- <code class="language-plaintext highlighter-rouge">2021.01</code> *2011.08* Champion of RoboCup Rescue League, Team CSU Yunlu, Robot Soccer World Cup
+- <code class="language-plaintext highlighter-rouge">2021.01</code> Outstanding Ph.D. Thesis Award at Central South University
+- <code class="language-plaintext highlighter-rouge">2020.12</code> IEEE Technical Committee on Cloud Computing(TCCLD) Outstanding Ph.D. Thesis Award
+- <code class="language-plaintext highlighter-rouge">2018.10</code> Best Paper Award Candidates, IEEE LCN 2018
+- <code class="language-plaintext highlighter-rouge">2016.12 - 2018.12</code> CSC-UVic Fellowship
+- <code class="language-plaintext highlighter-rouge">2016.12</code> China National Scholarship for Graduate Students
+- <code class="language-plaintext highlighter-rouge">2012.06</code> Outstanding Graduates at Central South University
+- <code class="language-plaintext highlighter-rouge">2011.08</code> Champion of RoboCup Rescue League, Team CSU Yunlu, Robot Soccer World Cup
 
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
