@@ -91,7 +91,7 @@ Peer-reviewed Conference Publications
   
 - <code class="language-plaintext highlighter-rouge">IPCCC 2018</code> [Learning-based Cooperative Sound Event Detection with Edge Computing](https://ieeexplore.ieee.org/abstract/document/8711202) <br> Jingrong Wang, <b>Kaiyang Liu</b>, George Tzanetakis, and Jianping Pan.<br> <i>The 37th IEEE International Performance Computing and Communications Conference </i>, Orlando, Florida, USA, 2018.
   
-- <code class="language-plaintext highlighter-rouge">LCN 2018</code> [Learning-based Adaptive Data Placement for Low Latency in Data Center Networks](https://ieeexplore.ieee.org/abstract/document/8638050) [Best Paper Candidate] <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhuofan Liao, Boyang Yu, and Jianping Pan. <i>The 43nd IEEE Conference on Local Computer Networks</i>, Chicago, USA, 2018.
+- <code class="language-plaintext highlighter-rouge">LCN 2018</code> [Learning-based Adaptive Data Placement for Low Latency in Data Center Networks](https://ieeexplore.ieee.org/abstract/document/8638050) [Best Paper Candidate](https://www.ieeelcn.org/prior/LCN43/Program_technical.html) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhuofan Liao, Boyang Yu, and Jianping Pan. <i>The 43nd IEEE Conference on Local Computer Networks</i>, Chicago, USA, 2018.
   
 - <code class="language-plaintext highlighter-rouge">GLOBECOM 2018</code>[Learning Based Mobility Management under Uncertainties for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8711202) <br> Jingrong Wang, <b>Kaiyang Liu</b>, Minming Ni, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Abu Dhabi, United Arab Emirate (UAE), 2018.
   
