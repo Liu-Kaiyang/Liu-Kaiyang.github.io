@@ -61,7 +61,7 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 
 Peer-reviewed Journal Publications 
 
-- <code class="language-plaintext highlighter-rouge">TSC 2023</code> [TSC23](https://ieeexplore.ieee.org/abstract/document/10261293) Sampling-based Caching for Low Latency in Distributed Coded Storage Systems<br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287 2023.
+- <code class="language-plaintext highlighter-rouge">TSC 2023</code> [Sampling-based Caching for Low Latency in Distributed Coded Storage Systems](https://ieeexplore.ieee.org/abstract/document/10261293) <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287 2023.
 
 - [TCC23](https://ieeexplore.ieee.org/abstract/document/9760060) Adaptive and scalable caching for low latency in distributed coded storage systems<br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 11, no. 2, pp. 1840-1853, 2023.
 
