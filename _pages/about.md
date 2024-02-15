@@ -85,7 +85,7 @@ Peer-reviewed Journal Publications
 
 Peer-reviewed Conference Publications 
 
-- <code class="language-plaintext highlighter-rouge">GLOBECOM 2023</code> [Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks]  <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
+- <code class="language-plaintext highlighter-rouge">GLOBECOM 2023</code> Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
   
 - <code class="language-plaintext highlighter-rouge">ICDCS 2023</code>[End-to-End Congestion Control as Learning for Unknown Games with Bandit Feedback](https://ieeexplore.ieee.org/abstract/document/10272507) <br> Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>The 43rd IEEE International Conference on Distributed Computing Systems </i>, Hong Kong, China, 2023.
   
