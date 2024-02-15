@@ -59,7 +59,7 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- [TSC'23](https://ieeexplore.ieee.org/abstract/document/10261293) Sampling-based Caching for Low Latency in Distributed Coded Storage Systems</b>.<br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan.<br> IEEE Transactions on Services Computing</i>, 2023.
+- [TSC'23](https://ieeexplore.ieee.org/abstract/document/10261293) Sampling-based Caching for Low Latency in Distributed Coded Storage Systems.<br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan, IEEE Transactions on Services Computing, 2023.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
