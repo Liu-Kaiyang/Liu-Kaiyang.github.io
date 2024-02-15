@@ -45,6 +45,8 @@ redirect_from:
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
+<span class='anchor' id='-publications'></span>
+
 # 📝 Selected Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
