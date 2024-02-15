@@ -137,6 +137,13 @@ Selected Peer-reviewed Conference Publications
  
 - <code class="language-plaintext highlighter-rouge">Spring 2020</code> CSC 466/579 - Advanced Computer Networks
   - <b>Guest Lecturer</b>, Department of Computer Science, University of Victoria, Canada
+ 
+# 🏫 Supervision
+
+Current Students
+
+- <code class="language-plaintext highlighter-rouge">Fall 2023 -</code> Hong Wang - MSc 
+- <code class="language-plaintext highlighter-rouge">Fall 2022 -</code> Vahid Reza Niazmand - MSc  
     
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
