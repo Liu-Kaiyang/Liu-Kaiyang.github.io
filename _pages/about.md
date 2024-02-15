@@ -43,7 +43,7 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
-# 📝 Publications 
+# 📝 Peer-reviewed Journal Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,7 +59,7 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- [TSC23](https://ieeexplore.ieee.org/abstract/document/10261293) Sampling-based Caching for Low Latency in Distributed Coded Storage Systems<br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan <br> IEEE Transactions on Services Computing, 2023.
+- [TSC23](https://ieeexplore.ieee.org/abstract/document/10261293) Sampling-based Caching for Low Latency in Distributed Coded Storage Systems<br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan, <i>IEEE Transactions on Services Computing</i>, 2023.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
