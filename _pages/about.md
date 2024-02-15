@@ -32,7 +32,7 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 - *2022.04*: &nbsp;🎉🎉 Our paper on adaptive and scalable caching in distributed coded storage system is accepted by IEEE Transactions on Cloud Computing.
 - *2022.03*: &nbsp;🎉🎉 Our paper on distributed energy management is accepted by Sustainable Energy, Grids and Networks
 - *2021.11*: &nbsp;🎉🎉 Our paper on optimal caching in distributed coded storage system is accepted by IEEE/ACM Transactions on Networking.
-- *2020.12*: &nbsp;🎉🎉 I win the IEEE Technical Committee on Cloud Computing (TCCLD) Outstanding Ph.D. Thesis Award.
+- *2020.12*: &nbsp;🎉🎉 I win the IEEE Technical Committee on Cloud Computing (TCCLD) <a href="https://www.cs.mun.ca/~kaiyangl/file/Kaiyang_TCCLD_Award.pdf">Outstanding Ph.D. Thesis Award</a>.
 - *2020.12*: &nbsp;🎉🎉 I win the Outstanding Ph.D. Thesis Award at Central South University.
 - *2020.11*: &nbsp;🎉🎉 Our paper on abnormal sound event detection is accepted by CCF Transactions on Networking.
 - *2020.01*: &nbsp;🎉🎉 Our paper on data replica placement in data center networks is accepted by IEEE Transactions on Parallel and Distributed Systems.
