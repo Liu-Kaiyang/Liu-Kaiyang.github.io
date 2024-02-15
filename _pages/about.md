@@ -43,7 +43,7 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
-# 📝 Peer-reviewed Journal Publications 
+# 📝 Selected Peer-reviewed Journal Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,7 +59,27 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- [TSC23](https://ieeexplore.ieee.org/abstract/document/10261293) Sampling-based Caching for Low Latency in Distributed Coded Storage Systems<br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan, <i>IEEE Transactions on Services Computing</i>, 2023.
+- [TSC23](https://ieeexplore.ieee.org/abstract/document/10261293) Sampling-based Caching for Low Latency in Distributed Coded Storage Systems<br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287 2023.
+
+- [TCC23](https://ieeexplore.ieee.org/abstract/document/9760060) Adaptive and scalable caching for low latency in distributed coded storage systems<br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 11, no. 2, pp. 1840-1853, 2023.
+
+- [SEGN22](https://www.sciencedirect.com/science/article/abs/pii/S2352467722000509) Distributed energy management scheme based on hybrid ADMM and extended optimization horizon for energy Internet</b> Yijun Cheng, Jun Peng, <b>Kaiyang Liu</b>, Fu Jiang, Yue Wu, and Zhiwu Huang. <i>Sustainable Energy, Grids and Networks</i>, vol. 31, 2022.
+
+- [TCC22](https://ieeexplore.ieee.org/abstract/document/8834843) A Learning-based Data Placement Framework for Low Latency in Data Center Networks<br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Boyang Yu, Zhuofan Liao, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 10, no. 1, pp. 146--157, 2022.
+
+- [ToN22](https://ieeexplore.ieee.org/abstract/document/9656608) Optimal caching for low latency in distributed coded storage systems<br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, and Jianping Pan. <i>IEEE/ACM Transactions on Networking</i>, vol. 30, no. 3, pp. 1132--1145, 2022.
+
+- [TSC21](https://ieeexplore.ieee.org/abstract/document/8322273) An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers<br> <b>Kaiyang Liu</b>, Jun Peng, Boyang Yu, Weirong Liu, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 14, no. 2, pp. 356--370, 2021.
+
+- [TPDS20](https://ieeexplore.ieee.org/abstract/document/8964316) Scalable and Adaptive Data Replica Placement for Geo-distributed Cloud Storages<br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Weirong Liu, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 31, no. 7, pp. 1575--1587, 2020.
+
+- [IoT-J20](https://ieeexplore.ieee.org/abstract/document/8907390) Online UAV-mounted Edge Server Dispatching for Mobile-to-Mobile Edge Computing<br> Jingrong Wang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Internet of Things Journal</i>, vol. 7, no. 2, pp. 1375--1386, 2020.
+
+- [CCFToN20](https://link.springer.com/article/10.1007/s42045-020-00042-x) Cooperative abnormal sound event detection in end-edge-cloud orchestrated systems<br> Jingrong Wang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>CCF Transactions on Networking</i>, vol. 3, pp. 158--170, 2020.
+
+- [TVT19](https://ieeexplore.ieee.org/abstract/document/8669799) An Active Mobile Charging and Data Collection Scheme for Clustered Sensor Networks<br> <b>Kaiyang Liu</b>, Jun Peng, Liang He, Jianping Pan, Shuo Li, Ming Ling, and Zhiwu Huang. <i>IEEE Transactions on Vehicular Technology</i>, vol. 68, no. 5, pp. 5100--5113, 2019.
+
+- [FGCS16](https://www.sciencedirect.com/science/article/abs/pii/S0167739X16300905) Multi-device Task Offloading with Time-constraints for Energy Efficiency in Mobile Cloud Computing<br> <b>Kaiyang Liu</b>, Jun Peng, Heng Li, Xiaoyong Zhang, and Weirong Liu. <i>Future Generation Computer Systems</i>, vol. 64, pp. 1--14, 2016.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
