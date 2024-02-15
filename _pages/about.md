@@ -123,10 +123,9 @@ Selected Peer-reviewed Conference Publications
 
 # 📑 Teaching
 
-- <code class="language-plaintext highlighter-rouge">Fall 2023</code> Instructor
-  - Department of Computer Science, Memorial University of Newfoundland
-  - COMP 4759 - Computer Networks (Fall 2023)
-  - COMP 6777 - Mobile Ad Hoc Networking (Fall 2023)
+- <code class="language-plaintext highlighter-rouge">Fall 2023</code> COMP 4759 - Computer Networks/COMP 6777 - Mobile Ad Hoc Networking
+  - Instructor, Department of Computer Science, Memorial University of Newfoundland
+ 
 
 
 
