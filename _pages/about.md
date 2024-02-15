@@ -28,22 +28,22 @@ redirect_from:
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-- *2023.08*: &nbsp;🎉🎉 Our paper on sampling-based caching in distributed coded storage system is accepted by IEEE Transactions on Services Computing.
-- *2023.08*: &nbsp;🎉🎉 Our paper on VM/NFV migration in data center networks is accepted by IEEE GLOBECOM'23.
-- *2023.07*: &nbsp;🎉🎉 Our paper on learning-based congestion control is accepted by IEEE ICDCS'23.
-- *2022.04*: &nbsp;🎉🎉 Our paper on adaptive and scalable caching in distributed coded storage system is accepted by IEEE Transactions on Cloud Computing.
-- *2022.03*: &nbsp;🎉🎉 Our paper on distributed energy management is accepted by Sustainable Energy, Grids and Networks
-- *2021.11*: &nbsp;🎉🎉 Our paper on optimal caching in distributed coded storage system is accepted by IEEE/ACM Transactions on Networking.
-- *2020.12*: &nbsp;🎉🎉 I win the IEEE Technical Committee on Cloud Computing (TCCLD) <a href="https://www.cs.mun.ca/~kaiyangl/file/Kaiyang_TCCLD_Award.pdf">Outstanding Ph.D. Thesis Award</a>.
-- *2020.12*: &nbsp;🎉🎉 I win the Outstanding Ph.D. Thesis Award at Central South University.
-- *2020.11*: &nbsp;🎉🎉 Our paper on abnormal sound event detection is accepted by CCF Transactions on Networking.
-- *2020.01*: &nbsp;🎉🎉 Our paper on data replica placement in data center networks is accepted by IEEE Transactions on Parallel and Distributed Systems.
-- *2019.11*: &nbsp;🎉🎉 Our paper on mobile-to-mobile edge computing is accepted by IEEE Internet of Things Journal.
-- *2019.09*: &nbsp;🎉🎉 Our paper on data placement in data center networks is accepted by IEEE Transactions on Cloud Computing.
-- *2019.03*: &nbsp;🎉🎉 Our paper on wireless charging and mobile data collection in WSNs is accepted by IEEE Transactions on Vehicular Technology.
-- *2018.07*: &nbsp;🎉🎉 Our paper on learning-based abnormal sound events for city surveillance is accepted by IEEE IPCCC'18 (Acceptance Rate: 28.8%).
-- *2018.07*: &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
-- *2018.07*: &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
+- <code class="language-plaintext highlighter-rouge">2023.08</code> &nbsp;🎉🎉 Our paper on sampling-based caching in distributed coded storage system is accepted by IEEE Transactions on Services Computing.
+- <code class="language-plaintext highlighter-rouge">2023.08</code> &nbsp;🎉🎉 Our paper on VM/NFV migration in data center networks is accepted by IEEE GLOBECOM'23.
+- <code class="language-plaintext highlighter-rouge">2023.07</code> &nbsp;🎉🎉 Our paper on learning-based congestion control is accepted by IEEE ICDCS'23.
+- <code class="language-plaintext highlighter-rouge">2022.04</code> &nbsp;🎉🎉 Our paper on adaptive and scalable caching in distributed coded storage system is accepted by IEEE Transactions on Cloud Computing.
+- <code class="language-plaintext highlighter-rouge">2022.03</code> &nbsp;🎉🎉 Our paper on distributed energy management is accepted by Sustainable Energy, Grids and Networks
+- <code class="language-plaintext highlighter-rouge">2021.11</code> &nbsp;🎉🎉 Our paper on optimal caching in distributed coded storage system is accepted by IEEE/ACM Transactions on Networking.
+- <code class="language-plaintext highlighter-rouge">2020.12</code> &nbsp;🎉🎉 I win the IEEE Technical Committee on Cloud Computing (TCCLD) <a href="https://www.cs.mun.ca/~kaiyangl/file/Kaiyang_TCCLD_Award.pdf">Outstanding Ph.D. Thesis Award</a>.
+- <code class="language-plaintext highlighter-rouge">2020.12</code> &nbsp;🎉🎉 I win the Outstanding Ph.D. Thesis Award at Central South University.
+- <code class="language-plaintext highlighter-rouge">2020.11</code> &nbsp;🎉🎉 Our paper on abnormal sound event detection is accepted by CCF Transactions on Networking.
+- <code class="language-plaintext highlighter-rouge">2020.01</code> &nbsp;🎉🎉 Our paper on data replica placement in data center networks is accepted by IEEE Transactions on Parallel and Distributed Systems.
+- <code class="language-plaintext highlighter-rouge">2019.11</code> &nbsp;🎉🎉 Our paper on mobile-to-mobile edge computing is accepted by IEEE Internet of Things Journal.
+- <code class="language-plaintext highlighter-rouge">2019.09</code> &nbsp;🎉🎉 Our paper on data placement in data center networks is accepted by IEEE Transactions on Cloud Computing.
+- <code class="language-plaintext highlighter-rouge">2019.03</code> &nbsp;🎉🎉 Our paper on wireless charging and mobile data collection in WSNs is accepted by IEEE Transactions on Vehicular Technology.
+- <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based abnormal sound events for city surveillance is accepted by IEEE IPCCC'18 (Acceptance Rate: 28.8%).
+- <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
+- <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
 # 📝 Publications 
 
@@ -116,10 +116,10 @@ Selected Peer-reviewed Conference Publications
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-- *2014.09 - 2019.06*, Ph.D. in School of Information Science and Technology, Central South University, Changsha, China
-- *2016.12 - 2018.12*, Research Assistant in Computer Science, University of Victoria, Victoria, BC, Canada
-- *2012.09 - 2014.08*, MSc. in School of Information Science and Technology, Central South University, Changsha, China
-- *2008.09 - 2012.06*, B.Eng. in School of Information Science and Technology, Central South University, Changsha, China
+- <code class="language-plaintext highlighter-rouge">2014.09 - 2019.06</code> Ph.D. in School of Information Science and Technology, Central South University, Changsha, China
+- <code class="language-plaintext highlighter-rouge">2016.12 - 2018.12</code> Research Assistant in Computer Science, University of Victoria, Victoria, BC, Canada
+- <code class="language-plaintext highlighter-rouge">2012.09 - 2014.08</code> MSc. in School of Information Science and Technology, Central South University, Changsha, China
+- <code class="language-plaintext highlighter-rouge">2008.09 - 2012.06</code> B.Eng. in School of Information Science and Technology, Central South University, Changsha, China
 
 # 📑 Teaching
 
