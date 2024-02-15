@@ -107,13 +107,13 @@ Peer-reviewed Conference Publications
 - *2021.01* Outstanding Ph.D. Thesis Award at Central South University
 - *2020.12* IEEE Technical Committee on Cloud Computing(TCCLD) Outstanding Ph.D. Thesis Award
 - *2018.10* Best Paper Award Candidates, IEEE LCN 2018
-- *2016.12-2018.12* CSC-UVic Fellowship
+- *2016.12 - 2018.12* CSC-UVic Fellowship
 - *2016.12* China National Scholarship for Graduate Students
 - *2012.06* Outstanding Graduates at Central South University
 - *2011.08* Champion of RoboCup Rescue League, Team CSU Yunlu, Robot Soccer World Cup
 
 # 📖 Educations
-<!--- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 
 - *2014.09 - 2019.06*, Ph.D. in School of Information Science and Technology, Central South University, Changsha, China
@@ -121,9 +121,9 @@ Peer-reviewed Conference Publications
 - *2012.09 - 2014.08*, MSc. in School of Information Science and Technology, Central South University, Changsha, China
 - *2008.09 - 2012.06*, B.Eng. in School of Information Science and Technology, Central South University, Changsha, China
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
