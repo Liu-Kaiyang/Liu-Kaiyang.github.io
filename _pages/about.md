@@ -103,7 +103,6 @@ Peer-reviewed Conference Publications
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
 - *2021.01* Outstanding Ph.D. Thesis Award at Central South University
 - *2020.12* IEEE Technical Committee on Cloud Computing(TCCLD) Outstanding Ph.D. Thesis Award
 - *2018.10* Best Paper Award Candidates, IEEE LCN 2018
