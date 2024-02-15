@@ -45,9 +45,9 @@ redirect_from:
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
-<span class='anchor' id='-publications'></span>
 
-# 📝 Selected Publications 
+
+# 📝 Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +63,7 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-Peer-reviewed Journal Publications 
+Selected Peer-reviewed Journal Publications 
 
 - <code class="language-plaintext highlighter-rouge">TSC 2023</code> [Sampling-based Caching for Low Latency in Distributed Coded Storage Systems](https://ieeexplore.ieee.org/abstract/document/10261293) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287 2023.
 
@@ -87,7 +87,7 @@ Peer-reviewed Journal Publications
 
 - <code class="language-plaintext highlighter-rouge">FGCS 2016</code> [Multi-device Task Offloading with Time-constraints for Energy Efficiency in Mobile Cloud Computing](https://www.sciencedirect.com/science/article/abs/pii/S0167739X16300905) <br> <b>Kaiyang Liu</b>, Jun Peng, Heng Li, Xiaoyong Zhang, and Weirong Liu. <i>Future Generation Computer Systems</i>, vol. 64, pp. 1--14, 2016.
 
-Peer-reviewed Conference Publications 
+Selected Peer-reviewed Conference Publications 
 
 - <code class="language-plaintext highlighter-rouge">GLOBECOM 2023</code> Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
   
