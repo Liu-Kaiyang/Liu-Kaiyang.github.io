@@ -17,6 +17,9 @@ main:
 
   - title: "Teaching"
     url: "/#-teaching"
+    
+  - title: "Supervision"
+    url: "/#-supervision"
 
  # - title: "Invited Talks"
  #   url: "/#-invited-talks"
