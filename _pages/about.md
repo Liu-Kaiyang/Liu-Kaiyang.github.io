@@ -45,8 +45,6 @@ redirect_from:
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
-
-
 # 📝 Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -118,11 +116,19 @@ Selected Peer-reviewed Conference Publications
 # 📖 Educations
 <!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
-
 - *2014.09 - 2019.06*, Ph.D. in School of Information Science and Technology, Central South University, Changsha, China
 - *2016.12 - 2018.12*, Research Assistant in Computer Science, University of Victoria, Victoria, BC, Canada
 - *2012.09 - 2014.08*, MSc. in School of Information Science and Technology, Central South University, Changsha, China
 - *2008.09 - 2012.06*, B.Eng. in School of Information Science and Technology, Central South University, Changsha, China
+
+# 📑 Teaching
+
+- <code class="language-plaintext highlighter-rouge">Fall 2023</code> Instructor
+  - Department of Computer Science, Memorial University of Newfoundland
+  - COMP 4759 - Computer Networks (Fall 2023)
+  - COMP 6777 - Mobile Ad Hoc Networking (Fall 2023)
+
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
