@@ -43,7 +43,7 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - *2018.07*: &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
-# 📝 Selected Peer-reviewed Journal Publications 
+# 📝 Selected Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,6 +82,18 @@ Peer-reviewed Journal Publications
 - [TVT19](https://ieeexplore.ieee.org/abstract/document/8669799) An Active Mobile Charging and Data Collection Scheme for Clustered Sensor Networks<br> <b>Kaiyang Liu</b>, Jun Peng, Liang He, Jianping Pan, Shuo Li, Ming Ling, and Zhiwu Huang. <i>IEEE Transactions on Vehicular Technology</i>, vol. 68, no. 5, pp. 5100--5113, 2019.
 
 - [FGCS16](https://www.sciencedirect.com/science/article/abs/pii/S0167739X16300905) Multi-device Task Offloading with Time-constraints for Energy Efficiency in Mobile Cloud Computing<br> <b>Kaiyang Liu</b>, Jun Peng, Heng Li, Xiaoyong Zhang, and Weirong Liu. <i>Future Generation Computer Systems</i>, vol. 64, pp. 1--14, 2016.
+
+Peer-reviewed Conference Publications 
+
+- [GLOBECOM23] Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
+- [ICDCS23] End-to-End Congestion Control as Learning for Unknown Games with Bandit Feedback <br> Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>The 43rd IEEE International Conference on Distributed Computing Systems </i>, Hong Kong, China, 2023.
+- [IPCCC18] Learning-based Cooperative Sound Event Detection with Edge Computing <br> Jingrong Wang, <b>Kaiyang Liu</b>, George Tzanetakis, and Jianping Pan.<br> <i>The 37th IEEE International Performance Computing and Communications Conference </i>, Orlando, Florida, USA, 2018. 
+- [LCN18] [Best Paper Candidate] Learning-based Adaptive Data Placement for Low Latency in Data Center Networks <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhuofan Liao, Boyang Yu, and Jianping Pan. <i>The 43nd IEEE Conference on Local Computer Networks</i>, Chicago, USA, 2018. 
+- [GLOBECOM18] Learning Based Mobility Management under Uncertainties for Mobile Edge Computing <br> Jingrong Wang, <b>Kaiyang Liu</b>, Minming Ni, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Abu Dhabi, United Arab Emirate (UAE), 2018.
+- [GLOBECOM16] A Combinatorial Optimization for Energy-Efficient Mobile Cloud Offloading over Cellular Networks<br> <b> Kaiyang Liu</b>, Jun Peng, Xiaoyong Zhang, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Washington, DC, USA, 2016.      
+
+[GLOBECOM14] Dynamic Resource Reservation via Broker Federation in Cloud Service: A Fine-grained Heuristic-based Approach <br><b>Kaiyang Liu</b>, Jun Peng, Weirong Liu, Pingping Yao, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Austin, USA, 2014. 
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
