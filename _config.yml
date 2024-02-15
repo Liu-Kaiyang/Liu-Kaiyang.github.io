@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Kaiyang Liu's Homepage"
-description              : "Department of Computer Science <br> Memorial University of Newfoundland"
+description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Kaiyang Liu"
   avatar           : "images/Kaiyang.jpeg"
   bio              : "Assistant Professor, Ph.D."
-  location         : "S. J. Carew Building, <br> &nbsp &nbsp 240 Prince Phillip Drive, <br> &nbsp &nbsp St. John's, NL, Canada"
-  employer         : "<a href="https://www.mun.ca/">Memorial University of Newfoundland (MUN)</a> <br> Memorial University of Newfoundland"
+  location         : "Department of Computer Science <br> Memorial University of Newfoundland"
+  employer         : "S. J. Carew Building, <br> &nbsp &nbsp 240 Prince Phillip Drive, <br> &nbsp &nbsp St. John's, NL, Canada"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=AsOm8tUAAAAJ&hl=en"
   email            : "kaiyang.liu@mun.ca"
