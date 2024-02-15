@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Kaiyang Liu's Homepage"
-description              : "Department of Computer Science，Memorial University of Newfoundland"
+description              : "Department of Computer Science，\n\ Memorial University of Newfoundland"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
