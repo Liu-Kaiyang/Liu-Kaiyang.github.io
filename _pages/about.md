@@ -107,7 +107,7 @@ Selected Peer-reviewed Conference Publications
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 - <code class="language-plaintext highlighter-rouge">2021.01</code> Outstanding Ph.D. Thesis Award at Central South University
 - <code class="language-plaintext highlighter-rouge">2020.12</code> IEEE Technical Committee on Cloud Computing(TCCLD) Outstanding Ph.D. Thesis Award
-- <code class="language-plaintext highlighter-rouge">2018.10</code> Best Paper Award Candidates, IEEE LCN 2018
+- <code class="language-plaintext highlighter-rouge">2018.10</code> IEEE Conference on Local Computer Networks (LCN) Best Paper Award Finalist
 - <code class="language-plaintext highlighter-rouge">2016.12 - 2018.12</code> CSC-UVic Fellowship
 - <code class="language-plaintext highlighter-rouge">2016.12</code> China National Scholarship for Graduate Students
 - <code class="language-plaintext highlighter-rouge">2012.06</code> Outstanding Graduates at Central South University
@@ -123,12 +123,21 @@ Selected Peer-reviewed Conference Publications
 
 # 📑 Teaching
 
-- <code class="language-plaintext highlighter-rouge">Fall 2023</code> COMP 4759 - Computer Networks/COMP 6777 - Mobile Ad Hoc Networking
-  - Instructor, Department of Computer Science, Memorial University of Newfoundland
+- <code class="language-plaintext highlighter-rouge">Fall 2023</code> COMP 4759/6777 - Computer Networks/Mobile Ad Hoc Networking
+  - <b>Instructor</b>, Department of Computer Science, Memorial University of Newfoundland, Canada
  
+- <code class="language-plaintext highlighter-rouge">Fall 2022/Spring 2021</code> CSC 466/579 - Advanced Computer Networks
+  - <b>Co-Instructor</b>, Department of Computer Science, University of Victoria, Canada
+ 
+- <code class="language-plaintext highlighter-rouge">Spring 2022</code> CSC 360 - Operating Systems
+  - <b>Tutorial Instructor</b>, Department of Computer Science, University of Victoria, Canada
 
-
-
+- <code class="language-plaintext highlighter-rouge">Fall 2022</code> CSC 361 - Computer Communication and Networks
+  - <b>Guest Lecturer</b>, Department of Computer Science, University of Victoria, Canada
+ 
+- <code class="language-plaintext highlighter-rouge">Spring 2020</code> CSC 466/579 - Advanced Computer Networks
+  - <b>Guest Lecturer</b>, Department of Computer Science, University of Victoria, Canada
+    
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
