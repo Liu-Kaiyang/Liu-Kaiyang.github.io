@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Welcome to Kaiyang Liu's Homepage"
-description              : #"Department of Computer Science, Memorial University of Newfoundland"
+description              : "Department of Computer Science"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +26,7 @@ author:
   bio              : "Assistant Professor, Ph.D."
   location         : "St. John's, NL, Canada"
   employer         : "Memorial University of Newfoundland"
-  pubmed           : "Department of Computer Science"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=AsOm8tUAAAAJ&hl=en"
   email            : "kaiyang.liu@mun.ca"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
