@@ -65,7 +65,7 @@ Peer-reviewed Journal Publications
 
 - <code class="language-plaintext highlighter-rouge">TCC 2023</code> [Adaptive and scalable caching for low latency in distributed coded storage systems](https://ieeexplore.ieee.org/abstract/document/9760060) <br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 11, no. 2, pp. 1840-1853, 2023.
 
-- <code class="language-plaintext highlighter-rouge">SEGN 2022</code> [Distributed energy management scheme based on hybrid ADMM and extended optimization horizon for energy Internet](https://www.sciencedirect.com/science/article/abs/pii/S2352467722000509) </b> Yijun Cheng, Jun Peng, <b>Kaiyang Liu</b>, Fu Jiang, Yue Wu, and Zhiwu Huang. <i>Sustainable Energy, Grids and Networks</i>, vol. 31, 2022.
+- <code class="language-plaintext highlighter-rouge">SEGN 2022</code> [Distributed energy management scheme based on hybrid ADMM and extended optimization horizon for energy Internet](https://www.sciencedirect.com/science/article/abs/pii/S2352467722000509) <br> Yijun Cheng, Jun Peng, <b>Kaiyang Liu</b>, Fu Jiang, Yue Wu, and Zhiwu Huang. <i>Sustainable Energy, Grids and Networks</i>, vol. 31, 2022.
 
 - <code class="language-plaintext highlighter-rouge">TCC 2022</code> [A Learning-based Data Placement Framework for Low Latency in Data Center Networks](https://ieeexplore.ieee.org/abstract/document/8834843) <br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Boyang Yu, Zhuofan Liao, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 10, no. 1, pp. 146--157, 2022.
 
