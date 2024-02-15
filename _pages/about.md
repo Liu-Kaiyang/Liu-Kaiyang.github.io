@@ -86,13 +86,18 @@ Peer-reviewed Journal Publications
 Peer-reviewed Conference Publications 
 
 - [GLOBECOM23] Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
-- [ICDCS23] End-to-End Congestion Control as Learning for Unknown Games with Bandit Feedback <br> Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>The 43rd IEEE International Conference on Distributed Computing Systems </i>, Hong Kong, China, 2023.
-- [IPCCC18] Learning-based Cooperative Sound Event Detection with Edge Computing <br> Jingrong Wang, <b>Kaiyang Liu</b>, George Tzanetakis, and Jianping Pan.<br> <i>The 37th IEEE International Performance Computing and Communications Conference </i>, Orlando, Florida, USA, 2018. 
-- [LCN18] [Best Paper Candidate] Learning-based Adaptive Data Placement for Low Latency in Data Center Networks <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhuofan Liao, Boyang Yu, and Jianping Pan. <i>The 43nd IEEE Conference on Local Computer Networks</i>, Chicago, USA, 2018. 
-- [GLOBECOM18] Learning Based Mobility Management under Uncertainties for Mobile Edge Computing <br> Jingrong Wang, <b>Kaiyang Liu</b>, Minming Ni, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Abu Dhabi, United Arab Emirate (UAE), 2018.
-- [GLOBECOM16] A Combinatorial Optimization for Energy-Efficient Mobile Cloud Offloading over Cellular Networks<br> <b> Kaiyang Liu</b>, Jun Peng, Xiaoyong Zhang, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Washington, DC, USA, 2016.      
-
-[GLOBECOM14] Dynamic Resource Reservation via Broker Federation in Cloud Service: A Fine-grained Heuristic-based Approach <br><b>Kaiyang Liu</b>, Jun Peng, Weirong Liu, Pingping Yao, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Austin, USA, 2014. 
+  
+- [ICDCS23](https://ieeexplore.ieee.org/abstract/document/10272507) End-to-End Congestion Control as Learning for Unknown Games with Bandit Feedback <br> Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>The 43rd IEEE International Conference on Distributed Computing Systems </i>, Hong Kong, China, 2023.
+  
+- [IPCCC18](https://ieeexplore.ieee.org/abstract/document/8711202) Learning-based Cooperative Sound Event Detection with Edge Computing <br> Jingrong Wang, <b>Kaiyang Liu</b>, George Tzanetakis, and Jianping Pan.<br> <i>The 37th IEEE International Performance Computing and Communications Conference </i>, Orlando, Florida, USA, 2018.
+  
+- [LCN18](https://ieeexplore.ieee.org/abstract/document/8638050) [Best Paper Candidate] Learning-based Adaptive Data Placement for Low Latency in Data Center Networks <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhuofan Liao, Boyang Yu, and Jianping Pan. <i>The 43nd IEEE Conference on Local Computer Networks</i>, Chicago, USA, 2018.
+  
+- [GLOBECOM18](https://ieeexplore.ieee.org/abstract/document/8711202) Learning Based Mobility Management under Uncertainties for Mobile Edge Computing <br> Jingrong Wang, <b>Kaiyang Liu</b>, Minming Ni, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Abu Dhabi, United Arab Emirate (UAE), 2018.
+  
+- [GLOBECOM16](https://ieeexplore.ieee.org/abstract/document/7841488) A Combinatorial Optimization for Energy-Efficient Mobile Cloud Offloading over Cellular Networks<br> <b> Kaiyang Liu</b>, Jun Peng, Xiaoyong Zhang, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Washington, DC, USA, 2016.
+  
+- [GLOBECOM14](https://ieeexplore.ieee.org/abstract/document/7037157) Dynamic Resource Reservation via Broker Federation in Cloud Service: A Fine-grained Heuristic-based Approach <br><b>Kaiyang Liu</b>, Jun Peng, Weirong Liu, Pingping Yao, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Austin, USA, 2014. 
 
 
 # 🎖 Honors and Awards
