@@ -101,8 +101,16 @@ Peer-reviewed Conference Publications
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+
+- *2021.01* Outstanding Ph.D. Thesis Award at Central South University
+- *2020.12* IEEE Technical Committee on Cloud Computing(TCCLD) Outstanding Ph.D. Thesis Award
+- *2018.10* Best Paper Award Candidates, IEEE LCN 2018
+- *2016.12-2018.12* CSC-UVic Fellowship
+- *2016.12* China National Scholarship for Graduate Students
+- *2012.06* Outstanding Graduates at Central South University
+- *2011.08* Champion of RoboCup Rescue League, Team CSU Yunlu, Robot Soccer World Cup
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
