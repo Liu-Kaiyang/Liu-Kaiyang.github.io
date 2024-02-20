@@ -45,6 +45,9 @@ redirect_from:
 - <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
+# 🔈 Announcement
+- <b>Open Office Hour</b>：I dedicate 1-2 hours of my free time each week to connect with, offer guidance to, mentor, and support students and researchers who belong to underrepresented groups within the Computer Systems/Networking fields. Please send me an email if you are interested.
+
 # 📝 Publications 
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
