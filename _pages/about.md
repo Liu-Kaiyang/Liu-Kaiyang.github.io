@@ -66,7 +66,7 @@ redirect_from:
 
 Selected Peer-reviewed Journal Publications 
 
-- <code class="language-plaintext highlighter-rouge">TSC 2023</code> [Sampling-based Caching for Low Latency in Distributed Coded Storage Systems](https://ieeexplore.ieee.org/abstract/document/10261293) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287 2023.
+- <code class="language-plaintext highlighter-rouge">TSC 2023</code> [Sampling-based Caching for Low Latency in Distributed Coded Storage Systems](https://ieeexplore.ieee.org/abstract/document/10261293) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287, 2023.
 
 - <code class="language-plaintext highlighter-rouge">TCC 2023</code> [Adaptive and scalable caching for low latency in distributed coded storage systems](https://ieeexplore.ieee.org/abstract/document/9760060) <br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 11, no. 2, pp. 1840-1853, 2023.
 
