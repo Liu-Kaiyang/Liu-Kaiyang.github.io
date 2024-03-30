@@ -145,8 +145,8 @@ Selected Peer-reviewed Conference Publications
 
 Current Students
 
-- <code class="language-plaintext highlighter-rouge">Fall 2023 -</code> Hong Wang - MSc 
-- <code class="language-plaintext highlighter-rouge">Fall 2022 -</code> Vahid Reza Niazmand - MSc  
+- <code class="language-plaintext highlighter-rouge">Fall 2023 -</code> Hong Wang - MSc  (Co-supervised with <a href="https://qiang-john-ye.github.io/index.html">Dr. Qiang Ye</a>)
+- <code class="language-plaintext highlighter-rouge">Fall 2022 -</code> Vahid Reza Niazmand - MSc (Co-supervised with <a href="https://qiang-john-ye.github.io/index.html">Dr. Qiang Ye</a>)
     
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
