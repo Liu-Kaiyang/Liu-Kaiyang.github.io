@@ -45,6 +45,9 @@ redirect_from:
 - <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
+# 🔈 Open Positions
+- <b>For Prospective Students</b>：I currently have open M.Sc./Ph.D. positions for highly self-motivated graduate students. Areas of research include Network Intelligence for Next-generation Cloud Computing, Protocols Design for Advanced Networking, and Distributed Machine Learning. If interested, please send me by email your CV, transcripts, sample publications (if any), and TOFEL/IELTS test results, with the email subject line "Prospective [M.Sc./Ph.D.] Student - [Your Name]". . Admitted PhD/MSc students will be provided with full financial support.
+
 <!-- # 🔈 Announcement
 - <b>Open Office Hour</b>：I dedicate 1-2 hours of my free time each week to connect with, offer guidance to, mentor, and support students and researchers who belong to underrepresented groups within the Computer Systems/Networking fields. Please send me an email if you are interested. -->
 
