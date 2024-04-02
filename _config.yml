@@ -28,8 +28,8 @@ author:
   employer         : "EN-2033, S. J. Carew Building, <br> &nbsp &nbsp &nbsp 240 Prince Phillip Drive, <br> &nbsp &nbsp &nbsp St. John's, NL, Canada"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=AsOm8tUAAAAJ&hl=en"
-  email            : "kaiyang.liu@mun.ca"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : # "kaiyang.liu@mun.ca"
+  researchgate     : # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
