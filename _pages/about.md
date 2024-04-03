@@ -33,7 +33,7 @@ redirect_from:
 - <code class="language-plaintext highlighter-rouge">2023.08</code> &nbsp;🎉🎉 Our paper on VM/NFV migration in data center networks is accepted by IEEE GLOBECOM'23.
 - <code class="language-plaintext highlighter-rouge">2023.07</code> &nbsp;🎉🎉 Our paper on learning-based congestion control is accepted by IEEE ICDCS'23.
 - <code class="language-plaintext highlighter-rouge">2022.04</code> &nbsp;🎉🎉 Our paper on adaptive and scalable caching in distributed coded storage system is accepted by IEEE Transactions on Cloud Computing.
-- <code class="language-plaintext highlighter-rouge">2022.03</code> &nbsp;🎉🎉 Our paper on distributed energy management is accepted by Sustainable Energy, Grids and Networks
+- <code class="language-plaintext highlighter-rouge">2022.03</code> &nbsp;🎉🎉 Our paper on distributed energy management is accepted by Sustainable Energy, Grids and Networks.
 - <code class="language-plaintext highlighter-rouge">2021.11</code> &nbsp;🎉🎉 Our paper on optimal caching in distributed coded storage system is accepted by IEEE/ACM Transactions on Networking.
 - <code class="language-plaintext highlighter-rouge">2020.12</code> &nbsp;🎉🎉 I win the IEEE Technical Committee on Cloud Computing (TCCLD) <a href="https://www.cs.mun.ca/~kaiyangl/file/Kaiyang_TCCLD_Award.pdf">Outstanding Ph.D. Thesis Award</a>.
 - <code class="language-plaintext highlighter-rouge">2020.12</code> &nbsp;🎉🎉 I win the Outstanding Ph.D. Thesis Award at Central South University.
