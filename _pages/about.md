@@ -72,7 +72,7 @@ redirect_from:
 
 Selected Peer-reviewed Journal Publications 
 
-- <code class="language-plaintext highlighter-rouge">TPDS 2024</code> Sampling-based Multi-job Placement for Heterogeneous Deep Learning Clusters <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhiming Huang, and Jianping Pan. <i>IEEE Transactions on Transactions on Parallel and Distributed Systems</i>, 2024.
+- <code class="language-plaintext highlighter-rouge">TPDS 2024</code> Sampling-based Multi-job Placement for Heterogeneous Deep Learning Clusters <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhiming Huang, and Jianping Pan. <i>IEEE Transactions on Parallel and Distributed Systems</i>, 2024.
 
 - <code class="language-plaintext highlighter-rouge">TSC 2023</code> [Sampling-based Caching for Low Latency in Distributed Coded Storage Systems](https://ieeexplore.ieee.org/abstract/document/10261293) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287, 2023.
 
