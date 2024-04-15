@@ -100,9 +100,9 @@ Selected Peer-reviewed Conference Publications
 
 - <code class="language-plaintext highlighter-rouge">GLOBECOM 2023</code> Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
   
-- <code class="language-plaintext highlighter-rouge">ICDCS 2023</code>[End-to-End Congestion Control as Learning for Unknown Games with Bandit Feedback](https://ieeexplore.ieee.org/abstract/document/10272507) <br> Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>The 43rd IEEE International Conference on Distributed Computing Systems </i>, Hong Kong, China, 2023.
+- <code class="language-plaintext highlighter-rouge">ICDCS 2023</code>[End-to-End Congestion Control as Learning for Unknown Games with Bandit Feedback](https://ieeexplore.ieee.org/abstract/document/10272507) <br> Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>The 43rd IEEE International Conference on Distributed Computing Systems</i>, Hong Kong, China, 2023.
   
-- <code class="language-plaintext highlighter-rouge">IPCCC 2018</code> [Learning-based Cooperative Sound Event Detection with Edge Computing](https://ieeexplore.ieee.org/abstract/document/8711202) <br> Jingrong Wang, <b>Kaiyang Liu</b>, George Tzanetakis, and Jianping Pan.<br> <i>The 37th IEEE International Performance Computing and Communications Conference </i>, Orlando, Florida, USA, 2018.
+- <code class="language-plaintext highlighter-rouge">IPCCC 2018</code> [Learning-based Cooperative Sound Event Detection with Edge Computing](https://ieeexplore.ieee.org/abstract/document/8711202) <br> Jingrong Wang, <b>Kaiyang Liu</b>, George Tzanetakis, and Jianping Pan.<br> <i>The 37th IEEE International Performance Computing and Communications Conference</i>, Orlando, Florida, USA, 2018.
   
 - <code class="language-plaintext highlighter-rouge">LCN 2018</code> [Learning-based Adaptive Data Placement for Low Latency in Data Center Networks](https://ieeexplore.ieee.org/abstract/document/8638050) ([Best Paper Candidate](https://www.ieeelcn.org/prior/LCN43/Program_technical.html)) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhuofan Liao, Boyang Yu, and Jianping Pan. <i>The 43nd IEEE Conference on Local Computer Networks</i>, Chicago, USA, 2018.
   
