@@ -29,7 +29,7 @@ redirect_from:
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.-->
 
-- <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉Our paper on sampling-based multi-job placement for heterogeneous deep learning clusters is accepted by IEEE Transactions on Parallel and Distributed Systems.
+- <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Our paper on sampling-based multi-job placement for heterogeneous deep learning clusters is accepted by IEEE Transactions on Parallel and Distributed Systems.
 - <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Dr. Liu has received the prestigious 5-Year NSERC Discovery Grants and the Discovery Launch Supplement Award.
 - <code class="language-plaintext highlighter-rouge">2023.08</code> &nbsp;🎉🎉 Our paper on sampling-based caching in distributed coded storage system is accepted by IEEE Transactions on Services Computing.
 - <code class="language-plaintext highlighter-rouge">2023.08</code> &nbsp;🎉🎉 Our paper on VM/NFV migration in data center networks is accepted by IEEE GLOBECOM'23.
