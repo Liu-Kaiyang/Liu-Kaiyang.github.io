@@ -51,6 +51,15 @@ redirect_from:
 # 🔈 Open Positions
 - <b>For Prospective Students</b>：I currently have open M.Sc./Ph.D. positions for highly self-motivated graduate students. Areas of research include Network Intelligence for Next-generation Cloud Computing, Protocols Design for Advanced Networking, and Distributed Machine Learning. If interested, please send me by email your <b>CV, transcripts, sample publications (if any), and TOFEL/IELTS test results</b>, with the email subject line "<b>Prospective [M.Sc./Ph.D.] Student - [Your Name]</b>". Admitted Ph.D./M.Sc. students will be provided with full financial support. Admission to the Ph.D. or the M.Sc. program is mainly granted for the Fall intake semesters (application deadline: December 1st). Please refer to the <a href="https://www.mun.ca/computerscience/graduate-students/guidance-for-graduate-applicants/">application guides</a> on the Faculty of Graduate Studies website for M.Sc. and Ph.D. programs. Visiting scholars/students are also welcomed worldwide.
 
+# 🔈 Research
+
+- <b> <b>AI for Cloud Computing</b>. We will explore how AI techniques can be applied and further improved in the network optimization domain, especially considering the heterogeneity and complexity of large-scale cloud data centers. The production systems rely on handcrafted heuristics, which are simple and easy to implement. However, the problem-specific heuristics rest on certain assumptions and predefined actions to certain events, which do not generalize well to changing environments. As a replacement for heuristics, existing clean-slate learning-based solutions have been proposed, which, however, raise new concerns such as high overhead, slow convergence, and bad performance over unforeseen conditions. In this program, we will combine traditional optimization strategies with machine learning and propose a set of practical and evolutionary learning-based solutions to achieve high throughput, low latency and overhead for next-generation cloud computing.
+
+- <b> <b>Cloud Computing for AI</b>. We will also examine how cloud data centers can be improved to better support AI applications in three dimensions: computation, communication, and network topology. As of today, AI training systems are predominantly built on top of traditional data center clusters due to their scalability, reliability, and cost-effectiveness. However, cloud computing was initially designed to achieve reliable resource sharing without optimization for specific applications. The network topology and the protocol stack used in cloud data centers need to be revolutionized to better support AI applications. In this program, we plan to co-optimize network topology, protocol, and parallelization strategy for accelerating the training of AI applications in cloud data centers.
+
+
+
+
 <!-- # 🔈 Announcement
 - <b>Open Office Hour</b>：I dedicate 1-2 hours of my free time each week to connect with, offer guidance to, mentor, and support students and researchers who belong to underrepresented groups within the Computer Systems/Networking fields. Please send me an email if you are interested. -->
 
