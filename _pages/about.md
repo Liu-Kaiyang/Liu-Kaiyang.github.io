@@ -59,8 +59,8 @@ redirect_from:
 
 # 🔈 Research Funding
 
-- NSERC (Discovery Grants and Discovery Launch Supplement)
-- (MUN) Dean of Science Start-Up Grants
+- <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> (Discovery Grants and Discovery Launch Supplement)
+- <a href="https://mun.ca/">MUN</a> (Dean of Science Research Start-Up Grant)
 
 <!-- # 🔈 Announcement
 - <b>Open Office Hour</b>：I dedicate 1-2 hours of my free time each week to connect with, offer guidance to, mentor, and support students and researchers who belong to underrepresented groups within the Computer Systems/Networking fields. Please send me an email if you are interested. -->
