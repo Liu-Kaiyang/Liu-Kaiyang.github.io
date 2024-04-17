@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kaiyang Liu"
-  avatar           : "images/Kaiyang.jpeg"
+  avatar           : "images/Kaiyang_Liu_page.jpg" #"images/Kaiyang.jpeg"
   bio              : "Assistant Professor, Ph.D."
   location         : "Department of Computer Science, <br> Memorial University of Newfoundland"
   employer         : "EN-2033, S. J. Carew Building, <br> &nbsp &nbsp &nbsp 240 Prince Phillip Drive, <br> &nbsp &nbsp &nbsp St. John's, NL, Canada"
