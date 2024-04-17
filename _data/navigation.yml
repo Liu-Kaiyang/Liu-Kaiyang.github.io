@@ -9,6 +9,9 @@ main:
   - title: "Open Positions"
     url: "/#-open-positions"
 
+  - title: "Research"
+    url: "/#-research"
+
   - title: "Publications"
     url: "/#-publications"
 
