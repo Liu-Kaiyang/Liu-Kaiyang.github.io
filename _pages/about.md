@@ -53,14 +53,17 @@ redirect_from:
 
 # 🔈 Research
 
-- <b>AI for Cloud Computing</b>. We will explore how AI techniques can be applied and further improved in the network optimization domain, especially considering the heterogeneity and complexity of large-scale cloud data centers. The production systems rely on handcrafted heuristics, which are simple and easy to implement. However, the problem-specific heuristics rest on certain assumptions and predefined actions to certain events, which do not generalize well to changing environments. As a replacement for heuristics, existing clean-slate learning-based solutions have been proposed, which, however, raise new concerns such as high overhead, slow convergence, and bad performance over unforeseen conditions. We will combine traditional optimization strategies with machine learning and propose a set of practical and evolutionary learning-based solutions to achieve high throughput, low latency and overhead for next-generation cloud computing.
+- Research programs
+  
+  - <b>AI for Cloud Computing</b>. We will explore how AI techniques can be applied and further improved in the network optimization domain, especially considering the heterogeneity and complexity of large-scale cloud data centers. The production systems rely on handcrafted heuristics, which are simple and easy to implement. However, the problem-specific heuristics rest on certain assumptions and predefined actions to certain events, which do not generalize well to changing environments. As a replacement for heuristics, existing clean-slate learning-based solutions have been proposed, which, however, raise new concerns such as high overhead, slow convergence, and bad performance over unforeseen conditions. We will combine traditional optimization strategies with machine learning and propose a set of practical and evolutionary learning-based solutions to achieve high throughput, low latency and overhead for next-generation cloud computing.
+    
+  - <b>Cloud Computing for AI</b>. We will also examine how cloud data centers can be improved to better support AI applications in three dimensions: computation, communication, and network topology. As of today, AI training systems are predominantly built on top of traditional data center clusters due to their scalability, reliability, and cost-effectiveness. However, cloud computing was initially designed to achieve reliable resource sharing without optimization for specific applications. The network topology and the protocol stack used in cloud data centers need to be revolutionized to better support AI applications. We plan to co-optimize network topology, protocol, and parallelization strategy for accelerating the training of AI applications in cloud data centers.
 
-- <b>Cloud Computing for AI</b>. We will also examine how cloud data centers can be improved to better support AI applications in three dimensions: computation, communication, and network topology. As of today, AI training systems are predominantly built on top of traditional data center clusters due to their scalability, reliability, and cost-effectiveness. However, cloud computing was initially designed to achieve reliable resource sharing without optimization for specific applications. The network topology and the protocol stack used in cloud data centers need to be revolutionized to better support AI applications. We plan to co-optimize network topology, protocol, and parallelization strategy for accelerating the training of AI applications in cloud data centers.
-
-# 🔈 Research Funding
-
-- <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> (Discovery Grants and Discovery Launch Supplement)
-- <a href="https://mun.ca/">MUN</a> (Dean of Science Research Start-Up Grant)
+- Research Fundings
+  
+  - <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> (Discovery Grants and Discovery Launch Supplement)
+    
+  - <a href="https://mun.ca/">MUN</a> (Dean of Science Research Start-Up Grant)
 
 <!-- # 🔈 Announcement
 - <b>Open Office Hour</b>：I dedicate 1-2 hours of my free time each week to connect with, offer guidance to, mentor, and support students and researchers who belong to underrepresented groups within the Computer Systems/Networking fields. Please send me an email if you are interested. -->
