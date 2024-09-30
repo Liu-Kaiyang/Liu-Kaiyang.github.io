@@ -3,7 +3,7 @@ title: "An Instance Reservation Framework for Cost Effective Services in Geo-Dis
 collection: publications
 category: manuscripts
 permalink: /publication/TSC21
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about flexible computation resource reservation and task placement in geo-distributed data centers.'
 date: 2021-03-01
 venue: 'IEEE Transactions on Services Computing'
 paperurl: 'https://liu-kaiyang.github.io/files/TSC21.pdf'
