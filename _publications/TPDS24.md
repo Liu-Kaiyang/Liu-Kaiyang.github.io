@@ -1,13 +1,13 @@
 ---
-title: "An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers"
+title: "Sampling-Based Multi-Job Placement for Heterogeneous Deep Learning Clusters"
 collection: publications
 category: manuscripts
-permalink: /publication/TSC21
-excerpt: 'This paper is about flexible computation resource reservation and task placement in geo-distributed data centers.'
+permalink: /publication/TPDS24
+excerpt: 'This paper is about multi-job placement to accelerate distributed deep learning in data center networks.'
 date: 2021-03-01
-venue: 'IEEE Transactions on Services Computing'
-paperurl: 'https://liu-kaiyang.github.io/files/TSC21.pdf'
-citation: 'Kaiyang Liu, Jun Peng, Boyang Yu, Weirong Liu, Zhiwu Huang, Jianping Pan. An instance reservation framework for cost effective services in geo-distributed data centers, IEEE Transactions on Services Computing, vol. 14, no. 2, pp. 356–370, 2021.'
+venue: 'IEEE Transactions on Parallel and Distributed Systems'
+paperurl: 'https://liu-kaiyang.github.io/files/TPDS24.pdf'
+citation: 'Kaiyang Liu, Jingrong Wang, Zhiming Huang, Jianping Pan, Sampling-based multi-job placement for heterogeneous deep learning clusters, IEEE Transactions on Parallel and Distributed Systems, vol. 35, no. 6, pp. 874–888, 2024.'
 ---
 
-Abstract: Infrastructure-as-a-Service clouds in geo-distributed data centers offer various pricing options, including on-demand and reserved instances, which provide an elastic and cost-effective infrastructure to support High Performance Computing (HPC) applications. In this paper, we propose an instance reservation based cloud service framework, modeling the cost-minimizing reservation decision issue as an NP-hard integer programming problem for distributed data centers. To ease its computation complexity, two algorithms are proposed to minimize the HPC service cost with the worst-case performance guarantees: an offline heuristic-greedy algorithm, and a rolling-horizon based online algorithm when only short-term demand prediction is available. Facing fluctuating demands, instance reservation in a single data center may incur the highly underutilized capacity. To address this issue for further cost reduction, we extend the scheme with a novel cloud broker federation based resource sharing mechanism, reallocating already reserved but unused instances to computation-intensive and short-lived tasks for continuous execution without interruption. Extensive evaluations driven by large-scale trace-based datasets demonstrate that the proposed mechanism can effectively handle large volumes of service requests, saving considerable service costs with higher reservation resource utilization.
+Abstract: Heterogeneous deep learning clusters commonly host a variety of distributed learning jobs. In such scenarios, the training efficiency of learning models is negatively affected by the slowest worker. To accelerate the training process, multiple learning jobs may compete for limited computational resources, posing significant challenges to multi-job placement among heterogeneous workers. This article presents a heterogeneity-aware scheduler to solve the multi-job placement problem while taking into account job sizing and load balancing, minimizing the average Job Completion Time (JCT) of deep learning jobs. A novel scheme based on proportional training workload assignment, feasible solution categorization, and matching markets is proposed with theoretical guarantees. To further reduce the computational complexity for low latency decision-making and improve scheduling fairness, we propose to construct the sparsification of feasible solution categories through sampling, which has negligible performance loss in JCT. We evaluate the performance of our design with real-world deep neural network benchmarks on heterogeneous computing clusters. Experimental results show that, compared to existing solutions, the proposed sampling-based scheme can achieve 1) results within 2.04% of the optimal JCT with orders-of-magnitude improvements in algorithm running time, and 2) high scheduling fairness among learning jobs.
