@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/TPDS24
 excerpt: 'This paper is about multi-job placement to accelerate distributed deep learning in data center networks.'
-date: 2021-03-01
+date: 2024-06-01
 venue: 'IEEE Transactions on Parallel and Distributed Systems'
 paperurl: 'https://liu-kaiyang.github.io/files/TPDS24.pdf'
 citation: 'Kaiyang Liu, Jingrong Wang, Zhiming Huang, Jianping Pan, Sampling-based multi-job placement for heterogeneous deep learning clusters, IEEE Transactions on Parallel and Distributed Systems, vol. 35, no. 6, pp. 874–888, 2024.'
