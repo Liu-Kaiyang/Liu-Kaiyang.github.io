@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 About Me
+# 🎓 About Me
 - I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">Department of Computer Science</a>,  <a href="https://www.mun.ca/">Memorial University of Newfoundland (MUN)</a>. Before joining MUN, I worked as a Post Doctoral Fellow at the University of Victoria, Canada with <a href="http://webhome.cs.uvic.ca/~pan/">Prof. Jianping Pan</a>. I received my Ph.D. degree in the School of Information Science and Technology, Central South University, Changsha, China, in June 2019. During 2016--2018, I was a research assistant at the University of Victoria, Canada. My current research areas include distributed cloud/edge computing and storage networks, data center networks, and distributed machine learning, with a special focus on the analysis and optimization of data-intensive services. I'm a Senior Member of IEEE.
 
 # 🔥 News
