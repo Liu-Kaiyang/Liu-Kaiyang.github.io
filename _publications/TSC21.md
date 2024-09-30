@@ -6,7 +6,7 @@ permalink: /publication/TSC21
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-03-01
 venue: 'IEEE Transactions on Services Computing'
-paperurl: 'http://academicpages.github.io/files/TSC21.pdf'
+paperurl: '[http://academicpages.github.io/files/TSC21.pdf](https://github.com/Liu-Kaiyang/Liu-Kaiyang.github.io/blob/master/files/TSC21.pdf)'
 citation: 'Kaiyang Liu, Jun Peng, Boyang Yu, Weirong Liu, Zhiwu Huang, Jianping Pan. An instance reservation framework for cost effective services in geo-distributed data centers, IEEE Transactions on Services Computing, vol. 14, no.
 2, pp. 356–370, 2021.'
 ---
