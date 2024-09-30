@@ -112,6 +112,9 @@ redirect_from:
 
 # 📑 Teaching
 
+- <code class="language-plaintext highlighter-rouge">Fall 2024</code> COMP 4759 - Computer Networks
+  - <b>Instructor</b>, Department of Computer Science, Memorial University of Newfoundland, Canada
+
 - <code class="language-plaintext highlighter-rouge">Fall 2023</code> COMP 4759/6777 - Computer Networks/Mobile Ad Hoc Networking
   - <b>Instructor</b>, Department of Computer Science, Memorial University of Newfoundland, Canada
  
