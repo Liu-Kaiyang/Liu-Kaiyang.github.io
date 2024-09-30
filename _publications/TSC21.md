@@ -2,12 +2,11 @@
 title: "An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers"
 collection: publications
 category: Journal Papers
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/TSC21
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-03-01
 venue: 'IEEE Transactions on Services Computing'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://academicpages.github.io/files/TSC21.pdf'
 citation: 'Kaiyang Liu, Jun Peng, Boyang Yu, Weirong Liu, Zhiwu Huang, Jianping Pan. An instance reservation framework for cost effective services in geo-distributed data centers, IEEE Transactions on Services Computing, vol. 14, no.
 2, pp. 356–370, 2021.'
 ---
