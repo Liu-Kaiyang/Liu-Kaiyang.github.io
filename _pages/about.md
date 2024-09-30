@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-# 🎓 About Me
+🎓 About Me
 - I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">Department of Computer Science</a>,  <a href="https://www.mun.ca/">Memorial University of Newfoundland (MUN)</a>. Before joining MUN, I worked as a Post Doctoral Fellow at the University of Victoria, Canada with <a href="http://webhome.cs.uvic.ca/~pan/">Prof. Jianping Pan</a>. I received my Ph.D. degree in the School of Information Science and Technology, Central South University, Changsha, China, in June 2019. During 2016--2018, I was a research assistant at the University of Victoria, Canada. My current research areas include distributed cloud/edge computing and storage networks, data center networks, and distributed machine learning, with a special focus on the analysis and optimization of data-intensive services. I'm a Senior Member of IEEE.
 
-# 🔥 News
+🔥 News
 - <code class="language-plaintext highlighter-rouge">2024.07</code> &nbsp;🎉🎉 Dr. Liu has been elevated to IEEE Senior Member.
 - <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Our paper on sampling-based multi-job placement for heterogeneous deep learning clusters is accepted by IEEE Transactions on Parallel and Distributed Systems.
 - <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Dr. Liu has received the prestigious 5-Year NSERC Discovery Grants and the Discovery Launch Supplement Award.
@@ -31,26 +31,26 @@ redirect_from:
 - <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
 - <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
 
-# 🔈 Open Positions
+🔈 Open Positions
 - <b>For Prospective Students</b>：I currently have open M.Sc./Ph.D. positions for highly self-motivated graduate students. Areas of research include Network Intelligence for Next-generation Cloud Computing, Protocols Design for Advanced Networking, and Distributed Machine Learning. If interested, please send me by email your <b>CV, transcripts, sample publications (if any), and TOFEL/IELTS test results</b>, with the email subject line "<b>Prospective [M.Sc./Ph.D.] Student - [Your Name]</b>". Admitted Ph.D./M.Sc. students will be provided with full financial support. Admission to the Ph.D. or the M.Sc. program is mainly granted for the Fall intake semesters (application deadline: December 1st). Please refer to the <a href="https://www.mun.ca/computerscience/graduate-students/guidance-for-graduate-applicants/">application guides</a> on the Faculty of Graduate Studies website for M.Sc. and Ph.D. programs. Visiting scholars/students are also welcomed worldwide.
 
-# 🔈 Research
+🔈 Research
 
-# - Research programs
+- Research programs
 
 - <b>AI for Cloud Computing</b>. We will explore how AI techniques can be applied and further improved in the network optimization domain, especially considering the heterogeneity and complexity of large-scale cloud data centers. The production systems rely on handcrafted heuristics, which are simple and easy to implement. However, the problem-specific heuristics rest on certain assumptions and predefined actions to certain events, which do not generalize well to changing environments. As a replacement for heuristics, existing clean-slate learning-based solutions have been proposed, which, however, raise new concerns such as high overhead, slow convergence, and bad performance over unforeseen conditions. We will combine traditional optimization strategies with machine learning and propose a set of practical and evolutionary learning-based solutions to achieve high throughput, low latency and overhead for next-generation cloud computing.
     
 - <b>Cloud Computing for AI</b>. We will also examine how cloud data centers can be improved to better support AI applications in three dimensions: computation, communication, and network topology. As of today, AI training systems are predominantly built on top of traditional data center clusters due to their scalability, reliability, and cost-effectiveness. However, cloud computing was initially designed to achieve reliable resource sharing without optimization for specific applications. The network topology and the protocol stack used in cloud data centers need to be revolutionized to better support AI applications. We plan to co-optimize network topology, protocol, and parallelization strategy for accelerating the training of AI applications in cloud data centers.
 
-# - Research Fundings
+- Research Fundings
   
 - <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> (Discovery Grants and Discovery Launch Supplement)
     
 - <a href="https://mun.ca/">MUN</a> (Dean of Science Research Start-Up Grant)
 
-# 📝 Publications 
+📝 Publications 
 
-# Selected Peer-reviewed Journal Publications 
+Selected Peer-reviewed Journal Publications 
 
 - <code class="language-plaintext highlighter-rouge">TPDS 2024</code> [Sampling-based Multi-job Placement for Heterogeneous Deep Learning Clusters](https://ieeexplore.ieee.org/abstract/document/10504599) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhiming Huang, and Jianping Pan. <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 35, no. 6, pp. 874-888, 2024.
 
@@ -76,7 +76,7 @@ redirect_from:
 
 - <code class="language-plaintext highlighter-rouge">FGCS 2016</code> [Multi-device Task Offloading with Time-constraints for Energy Efficiency in Mobile Cloud Computing](https://www.sciencedirect.com/science/article/abs/pii/S0167739X16300905) <br> <b>Kaiyang Liu</b>, Jun Peng, Heng Li, Xiaoyong Zhang, and Weirong Liu. <i>Future Generation Computer Systems</i>, vol. 64, pp. 1--14, 2016.
 
-# Selected Peer-reviewed Conference Publications 
+Selected Peer-reviewed Conference Publications 
 
 - <code class="language-plaintext highlighter-rouge">GLOBECOM 2023</code> [Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks](https://ieeexplore.ieee.org/document/10437235) <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
   
@@ -92,7 +92,7 @@ redirect_from:
   
 - <code class="language-plaintext highlighter-rouge">GLOBECOM 2014</code>[Dynamic Resource Reservation via Broker Federation in Cloud Service: A Fine-grained Heuristic-based Approach ](https://ieeexplore.ieee.org/abstract/document/7037157) <br> <b>Kaiyang Liu</b>, Jun Peng, Weirong Liu, Pingping Yao, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Austin, USA, 2014. 
 
-# 🎖 Honors and Awards
+🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 - <code class="language-plaintext highlighter-rouge">2021.01</code> Outstanding Ph.D. Thesis Award at Central South University
@@ -103,13 +103,13 @@ redirect_from:
 - <code class="language-plaintext highlighter-rouge">2012.06</code> Outstanding Graduates at Central South University
 - <code class="language-plaintext highlighter-rouge">2011.08</code> Champion of RoboCup Rescue League, Team CSU Yunlu, Robot Soccer World Cup
 
-# 📖 Educations
+📖 Educations
 - <code class="language-plaintext highlighter-rouge">2014.09 - 2019.06</code> Ph.D. in School of Information Science and Technology, Central South University, Changsha, China
 - <code class="language-plaintext highlighter-rouge">2016.12 - 2018.12</code> Research Assistant in Computer Science, University of Victoria, Victoria, BC, Canada
 - <code class="language-plaintext highlighter-rouge">2012.09 - 2014.08</code> MSc. in School of Information Science and Technology, Central South University, Changsha, China
 - <code class="language-plaintext highlighter-rouge">2008.09 - 2012.06</code> B.Eng. in School of Information Science and Technology, Central South University, Changsha, China
 
-# 📑 Teaching
+📑 Teaching
 
 - <code class="language-plaintext highlighter-rouge">Fall 2024</code> COMP 4759 - Computer Networks
   - <b>Instructor</b>, Department of Computer Science, Memorial University of Newfoundland, Canada
