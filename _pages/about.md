@@ -35,10 +35,6 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 ======
 - <b>For Prospective Students</b>：I currently have open M.Sc./Ph.D. positions for highly self-motivated graduate students. Areas of research include Network Intelligence for Next-generation Cloud Computing, Protocols Design for Advanced Networking, and Distributed Machine Learning. If interested, please send me by email your <b>CV, transcripts, sample publications (if any), and TOFEL/IELTS test results</b>, with the email subject line "<b>Prospective [M.Sc./Ph.D.] Student - [Your Name]</b>". Admitted Ph.D./M.Sc. students will be provided with full financial support. Admission to the Ph.D. or the M.Sc. program is mainly granted for the Fall intake semesters (application deadline: December 1st). Please refer to the <a href="https://www.mun.ca/computerscience/graduate-students/guidance-for-graduate-applicants/">application guides</a> on the Faculty of Graduate Studies website for M.Sc. and Ph.D. programs. Visiting scholars/students are also welcomed worldwide.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
 🔈 Research
 ------
 **Research programs**
