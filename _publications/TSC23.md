@@ -1,13 +1,13 @@
 ---
-title: "An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers"
+title: "Sampling-Based Caching for Low Latency in Distributed Coded Storage Systems"
 collection: publications
 category: manuscripts
-permalink: /publication/TSC21
-excerpt: 'This paper is about flexible computation resource reservation and task placement in geo-distributed data centers.'
-date: 2021-03-01
+permalink: /publication/TSC23
+excerpt: 'This paper is about a sampling-based cache content replacement scheme in geo-distributed cloud/edge networks.'
+date: 2023-11-01
 venue: 'IEEE Transactions on Services Computing'
-paperurl: 'https://liu-kaiyang.github.io/files/TSC21.pdf'
-citation: 'Kaiyang Liu, Jun Peng, Boyang Yu, Weirong Liu, Zhiwu Huang, Jianping Pan. An instance reservation framework for cost effective services in geo-distributed data centers, IEEE Transactions on Services Computing, vol. 14, no. 2, pp. 356–370, 2021.'
+paperurl: 'https://liu-kaiyang.github.io/files/TSC23.pdf'
+citation: 'Kaiyang Liu, Jingrong Wang, Heng Li, Jun Peng, Jianping Pan, Sampling-based caching for low latency in distributed coded storage systems, IEEE Transactions on Services Computing, vol. 16, no. 6, pp. 4275–4287, 2023.'
 ---
 
-Abstract: Infrastructure-as-a-Service clouds in geo-distributed data centers offer various pricing options, including on-demand and reserved instances, which provide an elastic and cost-effective infrastructure to support High Performance Computing (HPC) applications. In this paper, we propose an instance reservation based cloud service framework, modeling the cost-minimizing reservation decision issue as an NP-hard integer programming problem for distributed data centers. To ease its computation complexity, two algorithms are proposed to minimize the HPC service cost with the worst-case performance guarantees: an offline heuristic-greedy algorithm, and a rolling-horizon based online algorithm when only short-term demand prediction is available. Facing fluctuating demands, instance reservation in a single data center may incur the highly underutilized capacity. To address this issue for further cost reduction, we extend the scheme with a novel cloud broker federation based resource sharing mechanism, reallocating already reserved but unused instances to computation-intensive and short-lived tasks for continuous execution without interruption. Extensive evaluations driven by large-scale trace-based datasets demonstrate that the proposed mechanism can effectively handle large volumes of service requests, saving considerable service costs with higher reservation resource utilization.
+Abstract: Caching has been considered as a promising solution to achieve low latency in distributed erasure coded storage systems. The previous research work categorizes all feasible caching decisions into a set of cache partitions, and then obtains the optimal solution by applying the market clearing price on each cache partition. While enjoying the ultimate performance of low data access latency, the optimal scheme suffers from high computation overheads when applied to large-scale storage systems. This paper presents SampleX, which constructs the sparsification of cache partitions through sampling to approximate the optimal caching scheme with substantially reduced computation complexity. Theoretical analysis guarantees the performance of SampleX. Furthermore, SampleX is implemented in a streaming fashion, capturing the characteristics of recent traffic for online cache content replacement. Trace-driven experimental results show that online SampleX is up to 95× faster than the state-of-the-art online scheme while only incurring a performance loss of 0.81%.
