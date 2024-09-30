@@ -12,7 +12,7 @@ title                    : "Welcome to Kaiyang Liu's Homepage"
 title_separator          : "Assistant Professor-Ph.D.-SMIEEE"
 name                     : "Kaiyang Liu"
 description              : &description "personal description"
-url                      : "https://liu-kaiyang.github.io/"
+url                      : "https://liu-kaiyang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
