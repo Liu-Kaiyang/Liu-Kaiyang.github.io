@@ -7,124 +7,43 @@ redirect_from:
   - /about.html
 ---
 
-🎓 About Me
-- I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">Department of Computer Science</a>,  <a href="https://www.mun.ca/">Memorial University of Newfoundland (MUN)</a>. Before joining MUN, I worked as a Post Doctoral Fellow at the University of Victoria, Canada with <a href="http://webhome.cs.uvic.ca/~pan/">Prof. Jianping Pan</a>. I received my Ph.D. degree in the School of Information Science and Technology, Central South University, Changsha, China, in June 2019. During 2016--2018, I was a research assistant at the University of Victoria, Canada. My current research areas include distributed cloud/edge computing and storage networks, data center networks, and distributed machine learning, with a special focus on the analysis and optimization of data-intensive services. I'm a Senior Member of IEEE.
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-🔥 News
-- <code class="language-plaintext highlighter-rouge">2024.07</code> &nbsp;🎉🎉 Dr. Liu has been elevated to IEEE Senior Member.
-- <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Our paper on sampling-based multi-job placement for heterogeneous deep learning clusters is accepted by IEEE Transactions on Parallel and Distributed Systems.
-- <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Dr. Liu has received the prestigious 5-Year NSERC Discovery Grants and the Discovery Launch Supplement Award.
-- <code class="language-plaintext highlighter-rouge">2023.08</code> &nbsp;🎉🎉 Our paper on sampling-based caching in distributed coded storage system is accepted by IEEE Transactions on Services Computing.
-- <code class="language-plaintext highlighter-rouge">2023.08</code> &nbsp;🎉🎉 Our paper on VM/NFV migration in data center networks is accepted by IEEE GLOBECOM'23.
-- <code class="language-plaintext highlighter-rouge">2023.07</code> &nbsp;🎉🎉 Our paper on learning-based congestion control is accepted by IEEE ICDCS'23.
-- <code class="language-plaintext highlighter-rouge">2022.04</code> &nbsp;🎉🎉 Our paper on adaptive and scalable caching in distributed coded storage system is accepted by IEEE Transactions on Cloud Computing.
-- <code class="language-plaintext highlighter-rouge">2022.03</code> &nbsp;🎉🎉 Our paper on distributed energy management is accepted by Sustainable Energy, Grids and Networks.
-- <code class="language-plaintext highlighter-rouge">2021.11</code> &nbsp;🎉🎉 Our paper on optimal caching in distributed coded storage system is accepted by IEEE/ACM Transactions on Networking.
-- <code class="language-plaintext highlighter-rouge">2020.12</code> &nbsp;🎉🎉 I win the IEEE Technical Committee on Cloud Computing (TCCLD) <a href="https://www.cs.mun.ca/~kaiyangl/file/Kaiyang_TCCLD_Award.pdf">Outstanding Ph.D. Thesis Award</a>.
-- <code class="language-plaintext highlighter-rouge">2020.12</code> &nbsp;🎉🎉 I win the Outstanding Ph.D. Thesis Award at Central South University.
-- <code class="language-plaintext highlighter-rouge">2020.11</code> &nbsp;🎉🎉 Our paper on abnormal sound event detection is accepted by CCF Transactions on Networking.
-- <code class="language-plaintext highlighter-rouge">2020.01</code> &nbsp;🎉🎉 Our paper on data replica placement in data center networks is accepted by IEEE Transactions on Parallel and Distributed Systems.
-- <code class="language-plaintext highlighter-rouge">2019.11</code> &nbsp;🎉🎉 Our paper on mobile-to-mobile edge computing is accepted by IEEE Internet of Things Journal.
-- <code class="language-plaintext highlighter-rouge">2019.09</code> &nbsp;🎉🎉 Our paper on data placement in data center networks is accepted by IEEE Transactions on Cloud Computing.
-- <code class="language-plaintext highlighter-rouge">2019.03</code> &nbsp;🎉🎉 Our paper on wireless charging and mobile data collection in WSNs is accepted by IEEE Transactions on Vehicular Technology.
-- <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based abnormal sound events for city surveillance is accepted by IEEE IPCCC'18 (Acceptance Rate: 28.8%).
-- <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based data placement is accepted by IEEE LCN'18 and nominated as the best paper candidate (Acceptance Rate: under 30%).
-- <code class="language-plaintext highlighter-rouge">2018.07</code> &nbsp;🎉🎉 Our paper on learning-based mobility management for mobile edge computing is accepted by IEEE GLOBECOM'18 (Acceptance Rate: 38%).
+A data-driven personal website
+======
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-🔈 Open Positions
-- <b>For Prospective Students</b>：I currently have open M.Sc./Ph.D. positions for highly self-motivated graduate students. Areas of research include Network Intelligence for Next-generation Cloud Computing, Protocols Design for Advanced Networking, and Distributed Machine Learning. If interested, please send me by email your <b>CV, transcripts, sample publications (if any), and TOFEL/IELTS test results</b>, with the email subject line "<b>Prospective [M.Sc./Ph.D.] Student - [Your Name]</b>". Admitted Ph.D./M.Sc. students will be provided with full financial support. Admission to the Ph.D. or the M.Sc. program is mainly granted for the Fall intake semesters (application deadline: December 1st). Please refer to the <a href="https://www.mun.ca/computerscience/graduate-students/guidance-for-graduate-applicants/">application guides</a> on the Faculty of Graduate Studies website for M.Sc. and Ph.D. programs. Visiting scholars/students are also welcomed worldwide.
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-🔈 Research
+Getting started
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
 
-- Research programs
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-- <b>AI for Cloud Computing</b>. We will explore how AI techniques can be applied and further improved in the network optimization domain, especially considering the heterogeneity and complexity of large-scale cloud data centers. The production systems rely on handcrafted heuristics, which are simple and easy to implement. However, the problem-specific heuristics rest on certain assumptions and predefined actions to certain events, which do not generalize well to changing environments. As a replacement for heuristics, existing clean-slate learning-based solutions have been proposed, which, however, raise new concerns such as high overhead, slow convergence, and bad performance over unforeseen conditions. We will combine traditional optimization strategies with machine learning and propose a set of practical and evolutionary learning-based solutions to achieve high throughput, low latency and overhead for next-generation cloud computing.
-    
-- <b>Cloud Computing for AI</b>. We will also examine how cloud data centers can be improved to better support AI applications in three dimensions: computation, communication, and network topology. As of today, AI training systems are predominantly built on top of traditional data center clusters due to their scalability, reliability, and cost-effectiveness. However, cloud computing was initially designed to achieve reliable resource sharing without optimization for specific applications. The network topology and the protocol stack used in cloud data centers need to be revolutionized to better support AI applications. We plan to co-optimize network topology, protocol, and parallelization strategy for accelerating the training of AI applications in cloud data centers.
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-- Research Fundings
-  
-- <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> (Discovery Grants and Discovery Launch Supplement)
-    
-- <a href="https://mun.ca/">MUN</a> (Dean of Science Research Start-Up Grant)
+**Markdown generator**
 
-📝 Publications 
+I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-Selected Peer-reviewed Journal Publications 
+How to edit your site's GitHub repository
+------
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-- <code class="language-plaintext highlighter-rouge">TPDS 2024</code> [Sampling-based Multi-job Placement for Heterogeneous Deep Learning Clusters](https://ieeexplore.ieee.org/abstract/document/10504599) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhiming Huang, and Jianping Pan. <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 35, no. 6, pp. 874-888, 2024.
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
-- <code class="language-plaintext highlighter-rouge">TSC 2023</code> [Sampling-based Caching for Low Latency in Distributed Coded Storage Systems](https://ieeexplore.ieee.org/abstract/document/10261293) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Heng Li, Jun Peng, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 16, no. 6, 4275-4287, 2023.
-
-- <code class="language-plaintext highlighter-rouge">TCC 2023</code> [Adaptive and scalable caching for low latency in distributed coded storage systems](https://ieeexplore.ieee.org/abstract/document/9760060) <br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 11, no. 2, pp. 1840-1853, 2023.
-
-- <code class="language-plaintext highlighter-rouge">SEGN 2022</code> [Distributed energy management scheme based on hybrid ADMM and extended optimization horizon for energy Internet](https://www.sciencedirect.com/science/article/abs/pii/S2352467722000509) <br> Yijun Cheng, Jun Peng, <b>Kaiyang Liu</b>, Fu Jiang, Yue Wu, and Zhiwu Huang. <i>Sustainable Energy, Grids and Networks</i>, vol. 31, 2022.
-
-- <code class="language-plaintext highlighter-rouge">TCC 2022</code> [A Learning-based Data Placement Framework for Low Latency in Data Center Networks](https://ieeexplore.ieee.org/abstract/document/8834843) <br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Boyang Yu, Zhuofan Liao, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Cloud Computing</i>, vol. 10, no. 1, pp. 146--157, 2022.
-
-- <code class="language-plaintext highlighter-rouge">ToN 2022</code> [Optimal caching for low latency in distributed coded storage systems](https://ieeexplore.ieee.org/abstract/document/9656608) <br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, and Jianping Pan. <i>IEEE/ACM Transactions on Networking</i>, vol. 30, no. 3, pp. 1132--1145, 2022.
-
-- <code class="language-plaintext highlighter-rouge">TSC 2021</code> [An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers](https://ieeexplore.ieee.org/abstract/document/8322273) <br> <b>Kaiyang Liu</b>, Jun Peng, Boyang Yu, Weirong Liu, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Services Computing</i>, vol. 14, no. 2, pp. 356--370, 2021.
-
-- <code class="language-plaintext highlighter-rouge">TPDS 2020</code> [Scalable and Adaptive Data Replica Placement for Geo-distributed Cloud Storages](https://ieeexplore.ieee.org/abstract/document/8964316) <br> <b>Kaiyang Liu</b>, Jun Peng, Jingrong Wang, Weirong Liu, Zhiwu Huang, and Jianping Pan. <i>IEEE Transactions on Parallel and Distributed Systems</i>, vol. 31, no. 7, pp. 1575--1587, 2020.
-
-- <code class="language-plaintext highlighter-rouge">IoT-J 2020</code> [Online UAV-mounted Edge Server Dispatching for Mobile-to-Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8907390) <br> Jingrong Wang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Internet of Things Journal</i>, vol. 7, no. 2, pp. 1375--1386, 2020.
-
-- <code class="language-plaintext highlighter-rouge">CCFToN 202</code> [Cooperative abnormal sound event detection in end-edge-cloud orchestrated systems](https://link.springer.com/article/10.1007/s42045-020-00042-x) <br> Jingrong Wang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>CCF Transactions on Networking</i>, vol. 3, pp. 158--170, 2020.
-
-- <code class="language-plaintext highlighter-rouge">TVT 2019</code> [An Active Mobile Charging and Data Collection Scheme for Clustered Sensor Networks](https://ieeexplore.ieee.org/abstract/document/8669799) <br> <b>Kaiyang Liu</b>, Jun Peng, Liang He, Jianping Pan, Shuo Li, Ming Ling, and Zhiwu Huang. <i>IEEE Transactions on Vehicular Technology</i>, vol. 68, no. 5, pp. 5100--5113, 2019.
-
-- <code class="language-plaintext highlighter-rouge">FGCS 2016</code> [Multi-device Task Offloading with Time-constraints for Energy Efficiency in Mobile Cloud Computing](https://www.sciencedirect.com/science/article/abs/pii/S0167739X16300905) <br> <b>Kaiyang Liu</b>, Jun Peng, Heng Li, Xiaoyong Zhang, and Weirong Liu. <i>Future Generation Computer Systems</i>, vol. 64, pp. 1--14, 2016.
-
-Selected Peer-reviewed Conference Publications 
-
-- <code class="language-plaintext highlighter-rouge">GLOBECOM 2023</code> [Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks](https://ieeexplore.ieee.org/document/10437235) <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
-  
-- <code class="language-plaintext highlighter-rouge">ICDCS 2023</code>[End-to-End Congestion Control as Learning for Unknown Games with Bandit Feedback](https://ieeexplore.ieee.org/abstract/document/10272507) <br> Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>The 43rd IEEE International Conference on Distributed Computing Systems</i>, Hong Kong, China, 2023.
-  
-- <code class="language-plaintext highlighter-rouge">IPCCC 2018</code> [Learning-based Cooperative Sound Event Detection with Edge Computing](https://ieeexplore.ieee.org/abstract/document/8711202) <br> Jingrong Wang, <b>Kaiyang Liu</b>, George Tzanetakis, and Jianping Pan.<br> <i>The 37th IEEE International Performance Computing and Communications Conference</i>, Orlando, Florida, USA, 2018.
-  
-- <code class="language-plaintext highlighter-rouge">LCN 2018</code> [Learning-based Adaptive Data Placement for Low Latency in Data Center Networks](https://ieeexplore.ieee.org/abstract/document/8638050) ([Best Paper Candidate](https://www.ieeelcn.org/prior/LCN43/Program_technical.html)) <br> <b>Kaiyang Liu</b>, Jingrong Wang, Zhuofan Liao, Boyang Yu, and Jianping Pan. <i>The 43nd IEEE Conference on Local Computer Networks</i>, Chicago, USA, 2018.
-  
-- <code class="language-plaintext highlighter-rouge">GLOBECOM 2018</code>[Learning Based Mobility Management under Uncertainties for Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/8711202) <br> Jingrong Wang, <b>Kaiyang Liu</b>, Minming Ni, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Abu Dhabi, United Arab Emirate (UAE), 2018.
-  
-- <code class="language-plaintext highlighter-rouge">GLOBECOM 2016</code>[A Combinatorial Optimization for Energy-Efficient Mobile Cloud Offloading over Cellular Networks](https://ieeexplore.ieee.org/abstract/document/7841488) <br> <b> Kaiyang Liu</b>, Jun Peng, Xiaoyong Zhang, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Washington, DC, USA, 2016.
-  
-- <code class="language-plaintext highlighter-rouge">GLOBECOM 2014</code>[Dynamic Resource Reservation via Broker Federation in Cloud Service: A Fine-grained Heuristic-based Approach ](https://ieeexplore.ieee.org/abstract/document/7037157) <br> <b>Kaiyang Liu</b>, Jun Peng, Weirong Liu, Pingping Yao, and Zhiwu Huang. <i>IEEE Global Communications Conference</i>, Austin, USA, 2014. 
-
-🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-- <code class="language-plaintext highlighter-rouge">2021.01</code> Outstanding Ph.D. Thesis Award at Central South University
-- <code class="language-plaintext highlighter-rouge">2020.12</code> IEEE Technical Committee on Cloud Computing(TCCLD) Outstanding Ph.D. Thesis Award
-- <code class="language-plaintext highlighter-rouge">2018.10</code> IEEE Conference on Local Computer Networks (LCN) Best Paper Award Finalist
-- <code class="language-plaintext highlighter-rouge">2016.12 - 2018.12</code> CSC-UVic Fellowship
-- <code class="language-plaintext highlighter-rouge">2016.12</code> China National Scholarship for Graduate Students
-- <code class="language-plaintext highlighter-rouge">2012.06</code> Outstanding Graduates at Central South University
-- <code class="language-plaintext highlighter-rouge">2011.08</code> Champion of RoboCup Rescue League, Team CSU Yunlu, Robot Soccer World Cup
-
-📖 Educations
-- <code class="language-plaintext highlighter-rouge">2014.09 - 2019.06</code> Ph.D. in School of Information Science and Technology, Central South University, Changsha, China
-- <code class="language-plaintext highlighter-rouge">2016.12 - 2018.12</code> Research Assistant in Computer Science, University of Victoria, Victoria, BC, Canada
-- <code class="language-plaintext highlighter-rouge">2012.09 - 2014.08</code> MSc. in School of Information Science and Technology, Central South University, Changsha, China
-- <code class="language-plaintext highlighter-rouge">2008.09 - 2012.06</code> B.Eng. in School of Information Science and Technology, Central South University, Changsha, China
-
-📑 Teaching
-
-- <code class="language-plaintext highlighter-rouge">Fall 2024</code> COMP 4759 - Computer Networks
-  - <b>Instructor</b>, Department of Computer Science, Memorial University of Newfoundland, Canada
-
-- <code class="language-plaintext highlighter-rouge">Fall 2023</code> COMP 4759/6777 - Computer Networks/Mobile Ad Hoc Networking
-  - <b>Instructor</b>, Department of Computer Science, Memorial University of Newfoundland, Canada
- 
-- <code class="language-plaintext highlighter-rouge">Fall 2022/Spring 2021</code> CSC 466/579 - Advanced Computer Networks
-  - <b>Co-Instructor</b>, Department of Computer Science, University of Victoria, Canada
- 
-- <code class="language-plaintext highlighter-rouge">Spring 2022</code> CSC 360 - Operating Systems
-  - <b>Tutorial Instructor</b>, Department of Computer Science, University of Victoria, Canada
-
-- <code class="language-plaintext highlighter-rouge">Fall 2022</code> CSC 361 - Computer Communication and Networks
-  - <b>Guest Lecturer</b>, Department of Computer Science, University of Victoria, Canada
- 
-- <code class="language-plaintext highlighter-rouge">Spring 2020</code> CSC 466/579 - Advanced Computer Networks
-  - <b>Guest Lecturer</b>, Department of Computer Science, University of Victoria, Canada
+For more info
+------
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
