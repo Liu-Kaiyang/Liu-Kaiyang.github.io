@@ -1,13 +1,13 @@
 ---
-title: "An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers"
+title: "Scalable and Adaptive Data Replica Placement for Geo-Distributed Cloud Storages"
 collection: publications
 category: manuscripts
-permalink: /publication/TSC21
-excerpt: 'This paper is about flexible computation resource reservation and task placement in geo-distributed data centers.'
-date: 2021-03-01
-venue: 'IEEE Transactions on Services Computing'
-paperurl: 'https://liu-kaiyang.github.io/files/TSC21.pdf'
-citation: 'Kaiyang Liu, Jun Peng, Boyang Yu, Weirong Liu, Zhiwu Huang, Jianping Pan. An instance reservation framework for cost effective services in geo-distributed data centers, IEEE Transactions on Services Computing, vol. 14, no. 2, pp. 356–370, 2021.'
+permalink: /publication/TPDS20
+excerpt: 'This paper is about community discovery and adjustment based data replica placement schemes in geo-distributed cloud storage systems.'
+date: 2020-07-01
+venue: 'IEEE Transactions on Parallel and Distributed Systems'
+paperurl: 'https://liu-kaiyang.github.io/files/TPDS20.pdf'
+citation: 'Kaiyang Liu, Jun Peng, Jingrong Wang, Weirong Liu, Zhiwu Huang, Jianping Pan. Scalable and adaptive data replica placement for geo-distributed cloud storages, IEEE Transactions on Parallel and Distributed Systems, vol. 31, no. 7, pp. 1575–1587, 2020.'
 ---
 
-Abstract: Infrastructure-as-a-Service clouds in geo-distributed data centers offer various pricing options, including on-demand and reserved instances, which provide an elastic and cost-effective infrastructure to support High Performance Computing (HPC) applications. In this paper, we propose an instance reservation based cloud service framework, modeling the cost-minimizing reservation decision issue as an NP-hard integer programming problem for distributed data centers. To ease its computation complexity, two algorithms are proposed to minimize the HPC service cost with the worst-case performance guarantees: an offline heuristic-greedy algorithm, and a rolling-horizon based online algorithm when only short-term demand prediction is available. Facing fluctuating demands, instance reservation in a single data center may incur the highly underutilized capacity. To address this issue for further cost reduction, we extend the scheme with a novel cloud broker federation based resource sharing mechanism, reallocating already reserved but unused instances to computation-intensive and short-lived tasks for continuous execution without interruption. Extensive evaluations driven by large-scale trace-based datasets demonstrate that the proposed mechanism can effectively handle large volumes of service requests, saving considerable service costs with higher reservation resource utilization.
+Abstract: In geo-distributed cloud storage systems, data replication has been widely used to serve the ever more users around the world for high data reliability and availability. How to optimize the data replica placement has become one of the fundamental problems to reduce the inter-node traffic and the system overhead of accessing associated data items. In the big data era, traditional solutions may face the challenges of long running time and large overheads to handle the increasing scale of data items with time-varying user requests. Therefore, novel offline community discovery and online community adjustment schemes are proposed to solve the replica placement problem in a scalable and adaptive way. The offline scheme can find a replica placement solution based on the average read/write rates for a certain period of time. The scalability can be achieved as 1) the computation complexity is linear to the amount of data items and 2) the data-node communities can evolve in parallel for a distributed replica placement. Furthermore, the online scheme is adaptive to handle the bursty data requests, without the need to completely override the existing replica placement. Driven by real-world data traces, extensive performance evaluations demonstrate the effectiveness of our design to handle large-scale datasets..
