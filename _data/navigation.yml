@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Cloud Computing and Data Centers"
+  - title: "Projects: Cloud Computing and Data Centers"
     url: /publications/
 
 #  - title: "Talks"
