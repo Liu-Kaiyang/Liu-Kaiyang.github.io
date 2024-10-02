@@ -1,5 +1,5 @@
 ---
-title: "Scalable and Adaptive Data Replica Placement for Geo-Distributed Cloud Storages"
+title: "[J7] Scalable and Adaptive Data Replica Placement for Geo-Distributed Cloud Storages"
 collection: publications
 category: manuscripts
 permalink: /publication/TPDS20
