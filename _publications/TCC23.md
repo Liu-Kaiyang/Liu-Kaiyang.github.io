@@ -1,5 +1,5 @@
 ---
-title: "Adaptive and Scalable Caching With Erasure Codes in Distributed Cloud-Edge Storage Systems"
+title: "[J3] Adaptive and Scalable Caching With Erasure Codes in Distributed Cloud-Edge Storage Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/TCC23
