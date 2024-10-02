@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/LCN18
 excerpt: 'This paper is about learning-based data placement for intra-data center networks.'
-date: 2022-06-01
+date: 2018-10-01
 venue: 'IEEE Conference on Local Computer Networks (LCN)'
 slidesurl: 'http://academicpages.github.io/files/LCN18_slides.pdf'
 paperurl: 'https://liu-kaiyang.github.io/files/LCN18.pdf'
