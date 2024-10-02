@@ -1,5 +1,5 @@
 ---
-title: "[J5] A Learning-Based Data Placement Framework for Low Latency in Data Center Networks"
+title: "[J6] A Learning-Based Data Placement Framework for Low Latency in Data Center Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/TCC22
