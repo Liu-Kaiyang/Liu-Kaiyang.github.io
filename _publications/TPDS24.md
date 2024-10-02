@@ -1,5 +1,5 @@
 ---
-title: "Sampling-Based Multi-Job Placement for Heterogeneous Deep Learning Clusters"
+title: "[J1] Sampling-Based Multi-Job Placement for Heterogeneous Deep Learning Clusters"
 collection: publications
 category: manuscripts
 permalink: /publication/TPDS24
