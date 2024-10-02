@@ -1,5 +1,5 @@
 ---
-title: "An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers"
+title: "[J6] An Instance Reservation Framework for Cost Effective Services in Geo-Distributed Data Centers"
 collection: publications
 category: manuscripts
 permalink: /publication/TSC21
