@@ -1,5 +1,5 @@
 ---
-title: "C5: Learning-based Adaptive Data Placement for Low Latency in Data Center Networks"
+title: "[C5] Learning-based Adaptive Data Placement for Low Latency in Data Center Networks"
 collection: publications
 category: conferences
 permalink: /publication/LCN18
