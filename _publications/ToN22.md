@@ -1,5 +1,5 @@
 ---
-title: "Optimal Caching for Low Latency in Distributed Coded Storage Systems"
+title: "[J4] Optimal Caching for Low Latency in Distributed Coded Storage Systems"
 collection: publications
 category: manuscripts
 permalink: /publication/ToN22
