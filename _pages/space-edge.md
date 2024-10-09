@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /space-edge/
+title: "space-edge"
 author_profile: true
 redirect_from: 
   - /md/
