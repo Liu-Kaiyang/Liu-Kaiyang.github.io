@@ -5,11 +5,12 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Projects: Cloud Computing and Data Centers"
-    url: /publications/
 
-  - title: "Space Edge"
+  - title: "Projects: Space Edge"
     url: /space-edge/
+
+  - title: " Related Publications"
+    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
