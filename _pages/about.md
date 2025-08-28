@@ -11,6 +11,9 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 
 🔥 News
 ======
+- <code class="language-plaintext highlighter-rouge">2025.07</code> &nbsp;🎉🎉 Our paper on performance analysis of communication scheduling schemes for distributed deep learning is accepted for publication by IEEE Conference on Local Computer Networks.
+- <code class="language-plaintext highlighter-rouge">2025.07</code> &nbsp;🎉🎉 Our paper on IEEE International Conference on Communications is accepted by IEEE International Conference on Communications.
+- <code class="language-plaintext highlighter-rouge">2025.01</code> &nbsp;🎉🎉 My student Hong Wang has received the 2023-2024 Graduate Research Award, Department of Computer Science, Memorial University of Newfoundland.
 - <code class="language-plaintext highlighter-rouge">2024.07</code> &nbsp;🎉🎉 Dr. Liu has been elevated to IEEE Senior Member.
 - <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Our paper on sampling-based multi-job placement for heterogeneous deep learning clusters is accepted by IEEE Transactions on Parallel and Distributed Systems.
 - <code class="language-plaintext highlighter-rouge">2024.04</code> &nbsp;🎉🎉 Dr. Liu has received the prestigious 5-Year NSERC Discovery Grants and the Discovery Launch Supplement Award.
@@ -78,6 +81,11 @@ I'm an assistant professor at the <a href="https://www.mun.ca/computerscience/">
 - <code class="language-plaintext highlighter-rouge">FGCS 2016</code> [Multi-device Task Offloading with Time-constraints for Energy Efficiency in Mobile Cloud Computing](https://www.sciencedirect.com/science/article/abs/pii/S0167739X16300905) <br> <b>Kaiyang Liu</b>, Jun Peng, Heng Li, Xiaoyong Zhang, and Weirong Liu. <i>Future Generation Computer Systems</i>, vol. 64, pp. 1--14, 2016.
 
 **Selected Peer-reviewed Conference Publications**
+
+- <code class="language-plaintext highlighter-rouge">LCN 2025</code> [Performance Analysis of Communication Scheduling Schemes for Distributed Deep Learning] <br> Jinhao Luo, Hong Wang, Adrian Fiech, and <b>Kaiyang Liu</b>. <i>IEEE Conference on Local Computer Networks</i>, 2025.
+
+- <code class="language-plaintext highlighter-rouge">ICC 2025</code> [Efficient Device Placement for Distributed DNN Training] <br> Hong Wang, Jinhao Luo, <b>Kaiyang Liu</b>, and Qiang Ye. <i>IEEE International Conference on Communications</i>, Montreal, Canada, 2025.
+
 
 - <code class="language-plaintext highlighter-rouge">GLOBECOM 2023</code> [Energy-aware Inter-Data Center VM Migration over Elastic Optical Networks](https://ieeexplore.ieee.org/document/10437235) <br> Fatima S. Amri, Zhiming Huang, <b>Kaiyang Liu</b>, and Jianping Pan. <i>IEEE Global Communications Conference</i>, Kuala Lumpur, Malaysia, 2023.
   
