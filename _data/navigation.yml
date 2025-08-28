@@ -6,11 +6,11 @@
 
 main:
 
-  - title: "Projects: Space Edge"
-    url: /space-edge/
+#  - title: "Projects: Space Edge"
+#    url: /space-edge/
 
-  - title: " Related Publications"
-    url: /publications/
+#  - title: " Related Publications"
+#    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
